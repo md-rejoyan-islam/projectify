@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Develop API",
+    "description": "Api development for a project",
+    "date": "2021-02-20",
+    "category": "todo"
+  },
+  {
+    "id": 2,
+    "title": "Deploy to VPS ",
+    "description": "VPS deployment for a project",
+    "date": "2024-06-23",
+    "category": "done"
+  },
+  {
+    "id": 3,
+    "title": "Content Writer Content",
+    "description": "Writing content , articles for a project",
+    "date": "2022-04-28",
+    "category": "progress"
+  },
+  {
+    "id": 4,
+    "title": "AWS Server Setup",
+    "description": "Setting up AWS server Machine",
+    "date": "2022-09-16",
+    "category": "revised"
+  },
+  {
+    "id": 5,
+    "title": "React App Development",
+    "description": "React project testing and development",
+    "date": "2024-03-24",
+    "category": "done"
+  },
+  {
+    "id": 6,
+    "title": "NextJS App Development",
+    "description": "NextJS project migration and development",
+    "date": "2023-10-03",
+    "category": "progress"
+  },
+  {
+    "id": 7,
+    "title": "Frontend Design",
+    "description": "Designing frontend for a project",
+    "date": "2020-07-12",
+    "category": "todo"
+  },
+  {
+    "id": 8,
+    "title": "Server Maintenance",
+    "description": "How to maintain a server",
+    "date": "2022-06-12",
+    "category": "revised"
+  },
+  {
+    "id": 9,
+    "title": "QA Testing",
+    "description": "Quality assurance testing for a project",
+    "date": "2023-05-29",
+    "category": "progress"
+  }
+]
